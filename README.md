@@ -4,7 +4,8 @@ Unfortunatley the WebApp can not be used, since deploying the model on AWS serve
 The general use of the App with a running server can be seen in the gif below.
 
 # WebApp architecture 
-![WebAppArchitecturePicture](/Web App Diagram.svg)
+![WebAppArchitecturePicture](/Web_App_Diagram.svg)
 
 # Example of the deployed WebApp
-![WebAppGif](/WebApp_example.gif)
+
+<img src="/WebApp_example.gif" width="250" height="250"/>
