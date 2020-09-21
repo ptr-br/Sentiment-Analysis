@@ -8,4 +8,4 @@ The general use of the App with a running server can be seen in the gif below.
 
 # Example of the deployed WebApp
 
-<img src="/WebApp_example.gif" width="250" height="250"/>
+<img src="/WebApp_example.gif" width="600" />
